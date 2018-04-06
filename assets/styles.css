@@ -64,8 +64,8 @@ header #button-container a {
   display: inline-block;
   background-color: white;
   color: #01579b;
-  padding: 1.5em;
-  margin: 1.5em;
+  padding: 1.5em 2em;
+  margin: 1em;
   font-weight: 300;
   font-size: 1.1em;
   outline: none;
@@ -146,8 +146,8 @@ main i {
 @media only screen and (max-width: 1000px) {
   header #button-container a {
     display: block;
-    width: 100%;
     margin: 0 0 1em 0;
+    padding: 1.2em 2em;
   }
 
   header #button-container i {
