@@ -79,7 +79,7 @@ header #button-container a {
 
 header #button-container i {
   color: #01579b;
-  margin-right: .5em;
+  margin-right: 0.5em;
 }
 
 main {
@@ -125,6 +125,7 @@ main p {
 }
 
 main ul {
+  font-size: 1.3em;
   font-weight: 300;
   line-height: 1.6em;
 }
